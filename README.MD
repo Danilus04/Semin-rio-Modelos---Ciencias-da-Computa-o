@@ -14,3 +14,7 @@ Link do video do Youtube:
 Dataset Utilizado:
 
 [Link do Dataset](https://www.kaggle.com/datasets/aryashah2k/soybean-seedsclassification-dataset)
+
+Repositório do Github:
+
+[Repositório do Github](https://github.com/Danilus04/Semin-rio-Modelos---Ciencias-da-Computa-o)

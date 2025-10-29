@@ -9,4 +9,8 @@ Como usar:
 
 Link do video do Youtube:
 
-[Video](https://youtu.be/Z5hjEEoRG-g)
+[Link do Video](https://youtu.be/Z5hjEEoRG-g)
+
+Dataset Utilizado:
+
+[Link do Dataset](https://www.kaggle.com/datasets/aryashah2k/soybean-seedsclassification-dataset)
